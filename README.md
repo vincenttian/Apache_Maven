@@ -1,4 +1,4 @@
-mvntest
+Maven Project
 =======
 This helped me become familiar with Maven. 
 
